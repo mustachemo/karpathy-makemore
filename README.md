@@ -1,2 +1,2 @@
 # karpathy-makemore
- building a language model
+ building a character-level language model
